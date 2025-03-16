@@ -1,4 +1,4 @@
-# Aziz Boukhchim 👨‍💻
+# Hello I'm Aziz Boukhchim
 
 Welcome to my GitHub! I’m a software engineer with experience in both **mobile** and **web development**. I love to build projects that solve real-world problems and improve my skills.
 
